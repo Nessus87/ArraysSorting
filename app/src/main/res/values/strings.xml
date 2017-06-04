@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArraysSorting</string>
+    <string name="search">is located at index</string>
+    <string name="notEl">doesn\'t belong to the array (or to the selected interval).</string>
+    <string name="excMax">Selected max index exceeds the max index of the array.</string>
+    <string name="excMin">The minimum index can\'t be negative.</string>
+    <string name="excAll">Indexes out of bounds.</string>
+</resources>
